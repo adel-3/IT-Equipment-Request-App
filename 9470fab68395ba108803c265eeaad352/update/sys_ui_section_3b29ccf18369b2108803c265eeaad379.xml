@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3b29ccf18369b2108803c265eeaad379" sys_domain="global" table="x_1850703_it_equ_0_it_requests" version="3" view="workspace-it-equipment-request-1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>b72940358369b2108803c265eeaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>f32940358369b2108803c265eeaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>3b2940358369b2108803c265eeaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item.price</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>f72940358369b2108803c265eeaad326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_price</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>fb2940358369b2108803c265eeaad323</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>7b2940358369b2108803c265eeaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>7f2940358369b2108803c265eeaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>3f2940358369b2108803c265eeaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>b329ccf18369b2108803c265eeaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>bf2940358369b2108803c265eeaad329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>b32940358369b2108803c265eeaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_id>732940358369b2108803c265eeaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1850703_it_equ_0_it_requests" sys_domain="global" view="46290cf1df69b2105457befb316a79d9">3b29ccf18369b2108803c265eeaad379</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1850703_it_equ_0_it_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-01 17:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b29ccf18369b2108803c265eeaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1850703_it_equ_0_it_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+            <sys_update_name>sys_ui_section_3b29ccf18369b2108803c265eeaad379</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-01 17:44:49</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace IT Equipment Request 1" name="workspace-it-equipment-request-1">46290cf1df69b2105457befb316a79d9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

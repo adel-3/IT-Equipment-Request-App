@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1850703_it_equ_0.Audience for app it-equipment-request</api_name>
+        <description/>
+        <name>Audience for app it-equipment-request</name>
+        <role_names/>
+        <roles>a470fab68395ba108803c265eeaad3ec,24703eb68395ba108803c265eeaad31c</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:44:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43298cf18369b2108803c265eeaad3b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app it-equipment-request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_ux_applicability_43298cf18369b2108803c265eeaad3b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:44:46</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

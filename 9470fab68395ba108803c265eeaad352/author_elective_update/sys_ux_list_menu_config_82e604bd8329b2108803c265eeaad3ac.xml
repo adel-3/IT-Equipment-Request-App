@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>IT Equipment Request_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:34:52</sys_created_on>
+        <sys_id>82e604bd8329b2108803c265eeaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Equipment Request_menu_config</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_82e604bd8329b2108803c265eeaad3ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:34:52</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</application>
+        <file_path/>
+        <instance_id>6f33d4201b5a715839a54089bd4bcb18</instance_id>
+        <instance_name>dev199569</instance_name>
+        <name>sys_ux_list_menu_config_82e604bd8329b2108803c265eeaad3ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>IT Equipment Request_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 17:34:52</sys_created_on><sys_id>82e604bd8329b2108803c265eeaad3ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Equipment Request_menu_config</sys_name><sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package><sys_policy/><sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope><sys_update_name>sys_ux_list_menu_config_82e604bd8329b2108803c265eeaad3ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 17:34:52</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>-997726405</payload_hash>
+        <record_name>IT Equipment Request_menu_config</record_name>
+        <reverted_from/>
+        <source>a870fab68395ba108803c265eeaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:34:52</sys_created_on>
+        <sys_id>8ee604bd8329b2108803c265eeaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19adafb47fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:34:52</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>0ee604bda629b2104eaeae9c688c6fae</update_guid>
+        <update_guid_history>0ee604bda629b2104eaeae9c688c6fae:-997726405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:40:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>229d0c0fb6be470c83fa87910c7bec84</sys_id>
+        <sys_metadata>82e604bd8329b2108803c265eeaad3ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Equipment Request_menu_config</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_scope_delete display_value="">01884fb3b6e749f080b0dc43d5ec2ad9</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_82e604bd8329b2108803c265eeaad3ac</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_82e604bd8329b2108803c265eeaad3ac">8ee604bd8329b2108803c265eeaad3af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:40:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
