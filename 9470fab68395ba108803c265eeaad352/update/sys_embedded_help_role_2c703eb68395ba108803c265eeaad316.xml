@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1850703_it_equ_0.admin" name="x_1850703_it_equ_0.admin">a470fab68395ba108803c265eeaad3ec</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-22 22:13:49</sys_created_on>
+        <sys_id>2c703eb68395ba108803c265eeaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a470fab68395ba108803c265eeaad3ec</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2c703eb68395ba108803c265eeaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-22 22:13:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

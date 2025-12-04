@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="IT Equipment Request">30e680bd3829b21082cd8a906521759a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:34:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78e680bdd029b2101a14e25baf0abc84</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_ux_page_property_78e680bdd029b2101a14e25baf0abc84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:34:52</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1850703_it_equ_0.30e680bd3829b21082cd8a906521759a.root.global.listConfigId</unique_name>
+        <value>82e604bd8329b2108803c265eeaad3ac</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=78e680bdd029b2101a14e25baf0abc84"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</application>
+        <file_path/>
+        <instance_id>6f33d4201b5a715839a54089bd4bcb18</instance_id>
+        <instance_name>dev199569</instance_name>
+        <name>sys_ux_page_property_78e680bdd029b2101a14e25baf0abc84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>listConfigId</name><page display_value="IT Equipment Request">30e680bd3829b21082cd8a906521759a</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 17:34:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>78e680bdd029b2101a14e25baf0abc84</sys_id><sys_mod_count>1</sys_mod_count><sys_name>listConfigId</sys_name><sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package><sys_policy/><sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope><sys_update_name>sys_ux_page_property_78e680bdd029b2101a14e25baf0abc84</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 17:34:52</sys_updated_on><type>string</type><unique_name>x_1850703_it_equ_0.30e680bd3829b21082cd8a906521759a.root.global.listConfigId</unique_name><value>82e604bd8329b2108803c265eeaad3ac</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=78e680bdd029b2101a14e25baf0abc84"/></record_update>]]></payload>
+        <payload_hash>-44145224</payload_hash>
+        <record_name>listConfigId</record_name>
+        <reverted_from/>
+        <source>a870fab68395ba108803c265eeaad3e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:34:52</sys_created_on>
+        <sys_id>86e644bd8329b2108803c265eeaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19adafb49ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:34:52</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>46e644bd9929b2106f2c296d17534314</update_guid>
+        <update_guid_history>46e644bd9929b2106f2c296d17534314:-44145224,cae644bd9129b210932b9de1c2d53111:-2121665531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:40:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3d2ea190f8e14360b0ea218335212100</sys_id>
+        <sys_metadata>78e680bdd029b2101a14e25baf0abc84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_scope_delete display_value="">01884fb3b6e749f080b0dc43d5ec2ad9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_78e680bdd029b2101a14e25baf0abc84</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_78e680bdd029b2101a14e25baf0abc84">86e644bd8329b2108803c265eeaad315</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:40:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

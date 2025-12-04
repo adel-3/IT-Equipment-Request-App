@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="">30e680bd3829b21082cd8a906521759a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:34:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>78e680bda329b21070c48d4f332eec83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_ux_page_property_78e680bda329b21070c48d4f332eec83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:34:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1850703_it_equ_0.30e680bd3829b21082cd8a906521759a.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</application>
+        <file_path/>
+        <instance_id>6f33d4201b5a715839a54089bd4bcb18</instance_id>
+        <instance_name>dev199569</instance_name>
+        <name>sys_ux_page_property_78e680bda329b21070c48d4f332eec83</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Location to display the ribbon</description><name>ribbonLocation</name><page display_value="">30e680bd3829b21082cd8a906521759a</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 17:34:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>78e680bda329b21070c48d4f332eec83</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonLocation</sys_name><sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package><sys_policy/><sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope><sys_update_name>sys_ux_page_property_78e680bda329b21070c48d4f332eec83</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 17:34:48</sys_updated_on><type>string</type><unique_name>x_1850703_it_equ_0.30e680bd3829b21082cd8a906521759a.root.ribbonLocation</unique_name><value>sidebar</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-94285690</payload_hash>
+        <record_name>ribbonLocation</record_name>
+        <reverted_from/>
+        <source>0e2e0923832032108803c265eeaad335</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-10-18 16:12:44</sys_created_on>
+        <sys_id>e11848718369b2108803c265eeaad3fa</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>199f81844600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a1184871ae69b2101ecad651a72cd5fa</update_guid>
+        <update_guid_history>a1184871ae69b2101ecad651a72cd5fa:-94285690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:40:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>818da10fb8004d3c8e4adc4babf9c2e9</sys_id>
+        <sys_metadata>78e680bda329b21070c48d4f332eec83</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_scope_delete display_value="">01884fb3b6e749f080b0dc43d5ec2ad9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_78e680bda329b21070c48d4f332eec83</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_78e680bda329b21070c48d4f332eec83">e11848718369b2108803c265eeaad3fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:40:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

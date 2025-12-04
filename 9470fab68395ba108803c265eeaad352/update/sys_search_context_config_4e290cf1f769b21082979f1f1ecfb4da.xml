@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <attachment_limit/>
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition display_value="AI Search For Next Search">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <filter_genius_results_by_search_source>false</filter_genius_results_by_search_source>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
+        <name>IT Equipment Request AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="it-equipment-request Search Profile">82290cf1cd69b210ce28d1a73db771e4</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <show_disabled_facets>false</show_disabled_facets>
+        <show_tab_counts>true</show_tab_counts>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 17:44:44</sys_created_on>
+        <sys_id>4e290cf1f769b21082979f1f1ecfb4da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Equipment Request AI Search Configuration</sys_name>
+        <sys_package display_value="IT Equipment Request" source="x_1850703_it_equ_0">9470fab68395ba108803c265eeaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Equipment Request">9470fab68395ba108803c265eeaad352</sys_scope>
+        <sys_update_name>sys_search_context_config_4e290cf1f769b21082979f1f1ecfb4da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 17:44:44</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e290cf1f769b21082979f1f1ecfb4da"/>
+</record_update>

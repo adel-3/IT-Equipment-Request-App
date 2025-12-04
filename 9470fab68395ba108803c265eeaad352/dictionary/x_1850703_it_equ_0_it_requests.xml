@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5c55763283d5ba108803c265eeaad365" extends="sc_request" label="IT Requests" max_length="40" name="x_1850703_it_equ_0_it_requests" text_index="true" type="collection">
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Total Price" max_length="40" name="total_price" type="price"/>
+        <element label="Item" max_length="32" name="item" reference="x_1850703_it_equ_0_item" type="reference"/>
+    </element>
+</database>
